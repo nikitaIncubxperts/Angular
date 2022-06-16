@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.left {
+    width: 20%;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.right {
+    width: 80%;
+    height: 500px;
+    border: 2px solid black;
+}
